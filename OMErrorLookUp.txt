@@ -1,0 +1,41 @@
+Code, Description
+00, No errors
+10, Excessive position deviation
+20, Overcurrent
+21, Main circuit overheat
+22, Overvoltage (AC input driver)
+23, Main power supply is OFF
+25, Undervoltage
+26, Motor overheat
+28, Sensor error
+30, Overload
+31, Overspeed
+33, Absolute position error
+34, Command pulse error
+41, EEPROM error
+42, Sensor error as power on
+43, Rotation error at power on
+44, Encoder EEPROM error
+45, Motor combination error
+4A, Return-to-home incomplete
+51, Regeneration unit overheat (AC Input driver)
+53, Emergency stop circuit error
+60, Limit switch both sides active
+61, Reverse limit switches connection
+62, Return-to-home operation error
+63, No HOMES 
+64, TIM Z SLIT signal error
+66, Hardware overtravel
+67, Software overtravel
+68, Emergency stop
+6A, Return-to-home operation offset error
+6D, Mechanical overtravel
+70, Operation data error
+71, Electronic gear setting error
+72, Wrap setting error
+81, Network bus error
+83, Communication switch setting error
+84, RS-485 Communication Error
+85, RS-485 Communication timeout
+8E, Network converter error
+F0, CPU Error
